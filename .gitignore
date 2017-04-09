@@ -1,0 +1,24 @@
+# Created by https://www.gitignore.io/api/netbeans
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# End of https://www.gitignore.io/api/netbeans
+
+# Other ignores
+/logs/
+/lib/
+/doc/SourceScanner.java
+/doc/checklist24.png
+/doc/checklist32.png
+/doc/checklist.png
+/doc/relationship.png
+/doc/relationship24.png
+/doc/relationship256.jpg
+/doc/regex.txt
+/doc/libsAnteriores.txt
