@@ -1,4 +1,4 @@
 Source repository:
-  git@github.com:maumss/format-access-plugin
-	https://github.com/maumss/format-access-plugin
+  git@github.com:maumss/format-access-plugin.git
+	https://github.com/maumss/format-access-plugin.git
 	https://github.com/maumss/format-access-plugin
