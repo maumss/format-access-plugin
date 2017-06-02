@@ -12,7 +12,7 @@ Go to `Tools > Plugins > Downloaded Intalled > Add Plugins...` and add the `form
 
 ##Usage
 
-Go to Tools -> Options Menu. Choose Editor, Member Accesses and select your options to automatic opperation. You also can right click no yout text and choose `Format Accesses`. 
+Go to Tools -> Options Menu. Choose Editor, Member Accesses and select your options to automatic opperation. You also can right click no yout text and choose `Format Accesses`.
 
 - Qualify all non static field accesses with 'this.'
 - Qualify accesses to static fields and methods with declaring class.
